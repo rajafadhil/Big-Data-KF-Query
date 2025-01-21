@@ -1,0 +1,3 @@
+# Query for Big Data Dashboard
+
+This repository contains a collection of queries in `.txt` format designed to process big data as the foundation for dashboard creation. The files in this repository include SQL syntax crafted to extract, clean, and transform data according to analytical needs.
